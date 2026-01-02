@@ -1,1 +1,1 @@
-# AWS-security-governance
+# aws-security-governance
