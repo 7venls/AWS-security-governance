@@ -4,11 +4,11 @@
 
 ### Compute
 
-EC2,Lambda - サーバや処理を実行
+EC2, Lambda - サーバや処理を実行
 
 ### Storage
 
-S3,EBS - データを保存
+S3, EBS - データを保存
 
 ### Database
 
