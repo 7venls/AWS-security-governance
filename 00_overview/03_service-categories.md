@@ -2,23 +2,23 @@
 
 ・AWSのサービスは大きくカテゴリ分けされている。
 
-### Compute
+### Compute(処理・計算)
 
 EC2, Lambda - サーバや処理を実行
 
-### Storage
+### Storage（保存）
 
 S3, EBS - データを保存
 
-### Database
+### Database（データ管理）
 
 RDS, DynamoDB - データベース管理
 
-### Networking
+### Networking（つなぐ）
 
 VPC, Route53 - ネットワーク構築
 
-### Security
+### Security（守る）
 
 IAM, KMS, CloudTrail - 認証・アクセス管理、監査
 
