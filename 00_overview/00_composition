@@ -1,1 +1,8 @@
 # 構成
+
+00_overview/
+├─ aws-overview.md   # AWSとは何か／クラウドのメリット
+
+├─ region-az.md           # リージョンとAZ
+
+└─ service-categories.md  # AWSサービスカテゴリ
