@@ -50,3 +50,18 @@ Region（東京リージョン）
 
 ・AWS のサービスは大きくカテゴリ分けされている。
 
+### Compute
+
+EC2、Lambda - サーバや処理を実行
+
+### Storage
+
+S3、EBS - データを保存
+
+### Database
+
+RDS、DynamoDB - データベース管理
+
+### Networking
+
+VPC、Route53 - ネットワーク構築
