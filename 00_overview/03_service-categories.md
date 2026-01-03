@@ -14,7 +14,7 @@ S3, EBS - データを保存
 
 RDS, DynamoDB - データベース管理
 
-### Networking（つなぐ）
+### Networking（繋ぐ）
 
 VPC, Route53 - ネットワーク構築
 
@@ -22,6 +22,6 @@ VPC, Route53 - ネットワーク構築
 
 IAM, KMS, CloudTrail - 認証・アクセス管理、監査
 
-### Management
+### Management（運用）
 
 CloudWatch, CloudFormation - 監視や自動化
