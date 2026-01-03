@@ -65,3 +65,11 @@ RDS、DynamoDB - データベース管理
 ### Networking
 
 VPC、Route53 - ネットワーク構築
+
+### Security
+
+IAM、KMS、CloudTrail - 認証、アクセス管理、監査
+
+### Management
+
+CloudWatch、CloudFormation - 監査や自動化
