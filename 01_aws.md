@@ -52,24 +52,24 @@ Region（東京リージョン）
 
 ### Compute
 
-EC2、Lambda - サーバや処理を実行
+EC2,Lambda - サーバや処理を実行
 
 ### Storage
 
-S3、EBS - データを保存
+S3,EBS - データを保存
 
 ### Database
 
-RDS、DynamoDB - データベース管理
+RDS,DynamoDB - データベース管理
 
 ### Networking
 
-VPC、Route53 - ネットワーク構築
+VPC,Route53 - ネットワーク構築
 
 ### Security
 
-IAM、KMS、CloudTrail - 認証、アクセス管理、監査
+IAM,KMS,CloudTrail - 認証、アクセス管理、監査
 
 ### Management
 
-CloudWatch、CloudFormation - 監査や自動化
+CloudWatch,CloudFormation - 監査や自動化
