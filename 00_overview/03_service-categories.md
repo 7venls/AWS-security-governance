@@ -24,27 +24,76 @@
 
 ・データを保存する。
 
-S3, EBS - データを保存
+#### 代表サービス
 
-### Database（データ管理）
+・S3：ファイル保存（画像、ログ、バックアップ）
+
+・EBS：EC2に接続するディスク
+
+#### 実務イメージ
+
+・画像アップロード
+
+・ログ保管
+
+・バックアップ
+
+## Database（データ管理）
 
 ・データを構造的に管理する。
 
-RDS, DynamoDB - データベース管理
+#### 代表サービス
 
-### Networking（繋ぐ）
+・RDS：MySQL / PostgreSQL など
+
+・DynamoDB：NoSQL
+
+#### 実務イメージ
+
+・ユーザー情報
+
+・注文データ
+
+・設定情報
+
+## Networking（繋ぐ）
 
 ・通信の道を作る。
 
-VPC, Route53 - ネットワーク構築
+#### 代表サービス
 
+・VPC：仮想ネットワーク
 
-### Security（守る）
+・Subnet：ネットワークの区切り
+
+・Route Table：通信ルール
+
+・Internet Gateway：インターネット出口
+
+#### 実務イメージ
+
+・公開／非公開の分離
+
+・セキュリティ境界の設計
+
+## Security（守る）
 
 ・誰が何をできるかを制御する。
 
-IAM, KMS, CloudTrail - 認証・アクセス管理、監査
+#### 代表サービス
 
-### Management（運用）
+・IAM：ユーザー・権限管理
+
+・KMS：暗号鍵管理
+
+・CloudTrail：操作ログ
+
+#### 実務イメージ
+
+・管理者／一般ユーザーの分離
+
+・操作履歴の監査
+
+## Management（運用）
 
 CloudWatch, CloudFormation - 監視や自動化
