@@ -8,7 +8,7 @@
 
 ---
 
-# EC2の主要用語
+## EC2の主要用語
 
 ### AMI(Amazon Machine Image)
 
