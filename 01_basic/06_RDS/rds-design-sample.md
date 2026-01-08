@@ -1,7 +1,5 @@
 # RDS 構築
 
----
-
 ## 構成概要
 
 - VPC：study-vpc
