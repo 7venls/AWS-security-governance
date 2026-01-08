@@ -32,3 +32,18 @@
 - Inbound：MySQL(3306) from EC2 Security Group only
 
 ポイント：SG → SG 許可。
+
+## 確認内容
+
+- RDSにPublic IPが付与されていないこと。
+
+- Private Subnetに配置されていること。
+
+- EC2以外から接続できないこと。
+
+## 想定されるリスク
+
+- セキュリティグループを0.0.0.0/0で開けると不正接続の恐れ
+
+- Public Subnetに配置すると即セキュリティ指摘対象
+
