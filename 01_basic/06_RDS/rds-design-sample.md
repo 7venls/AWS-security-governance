@@ -3,7 +3,7 @@
 ## 構成概要
 
 - VPC: study-vpc
-- 
+
 - Subnet: Private Subnet
-- 
+
 - DB: Amazon RDS (MySQL)
